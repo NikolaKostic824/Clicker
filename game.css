@@ -1,0 +1,42 @@
+
+body {
+    font-family: sans-serif;
+    background-image: url(slike/picture1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+    border: red 2px solid;
+    
+    
+}
+
+
+
+
+
+#part1 {
+    text-align: center;
+    text-shadow: 2px 2px #5D9D09;
+    font font-family: monospace;
+    
+}
+
+#part2 {
+    width: 600px;
+    height: 600px;
+    border: black 4px solid;
+    margin: 0 auto;
+    margin left: 150px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,0.6);
+    
+  
+}
